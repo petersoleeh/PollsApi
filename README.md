@@ -1,2 +1,2 @@
 # PollsApi
-An API for a basic poll application
+An API for a basic poll application.
